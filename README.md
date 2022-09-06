@@ -13,7 +13,9 @@ We got the best grade either A 👀
 ## Installation ⚡
 
 ``` git clone git@github.com:Alex420000/Vehicule_Autonome_3D_Need4stek.git ```
+
 ``` cd Vehicule_Autonome_3D_Need4Stek ```
+
 ``` make ```
 
 ## Run project ✔
