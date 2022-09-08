@@ -1,5 +1,7 @@
 # Vehicule_Autonome_3D_Need4Stek
 
+![Need4Stek](https://user-images.githubusercontent.com/72023676/189103859-c30d250c-415f-49fa-9cb7-98bd19091017.jpg)
+
 This project is one of the most realistic project. Create your own AI into the circuits. 😎
 
 The goal of the project is to create AI with the most performance and that allows the car of forward the fastest as many possible before the length of time allotted. 😃
