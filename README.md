@@ -33,13 +33,9 @@ We got the best grade either A 👀
 | Circuit bridge | 3 / 3 |
 | Circuit rectiligne | 1 / 1 |
 | Circuit triangle | 3 / 3 |
-| Circuit bonus | 3 / 5 |
-| Total Average | 20 / 22 |
+| Circuit bonus | 5 / 5 |
+| Total Average | 22 / 22 |
 
 ## Bonus ✨
 As a bonus, I have ran a bonus race on the special circuit that allows you to test all the requests of the project,
 feel free to use it if you need it.
-
-## Teams 🙌
-* Alexis Barthelemy
-* Tino Tempesta
